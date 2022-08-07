@@ -1,6 +1,8 @@
 package day2
 
 class SortedSquare {
+//    Given an integer array nums sorted in non-decreasing order,
+//    return an array of the squares of each number sorted in non-decreasing order.
 
     fun sortSquareOfArray(inputs: IntArray): IntArray {
         val length = inputs.size
